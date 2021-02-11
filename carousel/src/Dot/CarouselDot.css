@@ -1,0 +1,19 @@
+.dot {
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #888;
+  display: inline-block;
+  margin: 0 3px;
+}
+
+.dots {
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin: 10px auto 0 auto;
+}
+
+.selected {
+  background-color: #888;
+}

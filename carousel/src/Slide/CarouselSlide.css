@@ -1,0 +1,9 @@
+.slide {
+  height: 100%;
+  display: flex;
+  flex: 0 0 auto;
+}
+
+.animateMargin {
+  transition: margin-left 1.5s;
+}
